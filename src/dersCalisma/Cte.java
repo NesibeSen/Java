@@ -10,7 +10,7 @@ public class Cte {
 
         System.out.println(i + 2);
 
-
+ //git deneme
 
     }
 }
