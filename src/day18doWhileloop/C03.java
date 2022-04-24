@@ -12,6 +12,8 @@ public class C03 {
             System.out.println(sayi);
             sayi++;
         }
+
+
         // Ayni soruyu do-while loop ile yapalim
         sayi=1;
         do {

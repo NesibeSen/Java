@@ -7,6 +7,8 @@ public class C01_NestedIfElse {
         //bölünüyorsa son rakamını kontrol edin. Son rakamı 0 ise ekrana “5’e bölünen
         //çift sayı” yazdırın. Son rakamı 0 değil ise “5’e bölünen tek sayı” yazdırın.
         //Girdiği password 5’e bölünmüyorsa ekrana “Tekrar deneyin” yazdırın.
+
+
         Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen 4 basamakli pozitif bir tamsayi giriniz");
         int sayi = scan.nextInt();

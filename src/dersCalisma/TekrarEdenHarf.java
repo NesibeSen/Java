@@ -16,7 +16,7 @@ public class TekrarEdenHarf {
             if(sayi>encokkactane)
             { encokkactane = sayi; index = i; }
         } System.out.println("En çok kullanılan harf:"+kelime.charAt(index));
-
+        System.out.println("En çok kac tane:"+ encokkactane);
 
 
     }
